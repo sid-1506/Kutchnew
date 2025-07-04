@@ -3,7 +3,7 @@
 This is a responsive and functional website created for **Kutch Polymer**, a pipe manufacturing company. The website showcases their products, company info, and contact details. It is built using HTML, CSS, and JavaScript.
 
 ## 🔗 Live Website  
-[https://kutchpolymer.vercel.app](https://kutchpolymer.vercel.app)
+[https://kutchnew.vercel.app](https://kutchnew.vercel.app)
 
 ---
 
@@ -53,7 +53,7 @@ I designed and developed the website layout and functionality, including:
 ## 📸 Screenshots
 
 
-![Homepage Screenshot](./assets/images/Readme%20Images/Homepage.png)
+![Homepage Screenshot](./Homepage%20Images/screencapture-127-0-0-1-5500-index-html-2025-07-05-00_37_17.png)
 ---
 
 ## 📬 Contact
